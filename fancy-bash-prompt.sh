@@ -25,7 +25,7 @@
 ##
 ##	DESCRIPTION:
 ##	This script updates your "PS1" environment variable to display colors.
-##	Addicitionally, it also shortens the name of your current part to maximum
+##	Additionally, it also shortens the name of your current part to maximum
 ##	25 characters, which is quite useful when working in deeply nested folders.
 ##
 ##
