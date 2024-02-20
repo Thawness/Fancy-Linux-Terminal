@@ -7,7 +7,7 @@ Installing powerline fonts :
 sudo apt install fonts-powerline
 
 _________________________________________
-Setting up powerline fonts for bash
+Setting up powerline fonts for bash for beginners
 _________________________________________
 
 Open your terminal, logged in as user. 
